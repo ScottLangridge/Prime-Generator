@@ -1,2 +1,2 @@
 # Prime-Generator
-Stupid project that just generates primes
+Are you really a computer scientist unless you've made a prime generator?
